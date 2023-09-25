@@ -1,0 +1,13 @@
+.Toastify__toast--info {
+  background: purple;
+}
+.Toastify__toast--success {
+  background: linear-gradient(90deg, #96D281 13.99%, #3F742C 108.37%);
+}
+.Toastify__toast--warning {
+  background: yellow;
+}
+.Toastify__toast--error {
+  background: linear-gradient(89.95deg, #D86A6A 14.03%, #CD2C2C 99.96%);
+  color: white;
+}
